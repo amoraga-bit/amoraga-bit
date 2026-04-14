@@ -22,7 +22,7 @@ En el aula, exploramos una variedad de tecnologías y conceptos clave:
 | **Lenguajes** | `HTML5`, `CSS3`, `JavaScript`, `Python`, `Java` |
 | **Herramientas & Workflow** | `Git`, `GitHub`, `GitHub Classroom`, `VS Code` |
 | **Conceptos Fundamentales** | Algoritmia, Estructuras de Datos, POO, Desarrollo Web (Frontend/Backend) |
-| **Metodologías** | Resolución de problemas, Trabajo Colaborativo, Debugging |
+| **Metodologías** | Aprendizaje Basado en Proyectos, Resolución de problemas, Trabajo Colaborativo, Debugging |
 
 ---
 
@@ -39,8 +39,8 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 
 ### 📊 Estadísticas de GitHub (Opcional)
 
-![Estadísticas de GitHub de [Tu Nombre]](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical)
-![Lenguajes más usados de [Tu Nombre]](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=radical)
+![Estadísticas de GitHub de amoraga-bit](https://github-readme-stats.vercel.app/api?username=amoraga-bit&show_icons=true&theme=radical)
+![Lenguajes más usados de amoraga-bit](https://github-readme-stats.vercel.app/api/top-langs/?username=amoraga-bit&layout=compact&theme=radical)
 
 ---
 
@@ -48,7 +48,7 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 
 Siempre estoy abierto a colaborar en recursos educativos, discutir pedagogía en tecnología o simplemente charlar sobre código.
 
-* [Tu Correo Electrónico](mailto:amilcar.samael.moraga@clases.edu.sv) 
+* [amilcar.samael.moraga@clases.edu.sv](mailto:amilcar.samael.moraga@clases.edu.sv) 
 
 
 ---
