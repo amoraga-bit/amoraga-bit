@@ -39,8 +39,6 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 
 ### 📊 Estadísticas de GitHub (Opcional)
 
-Puedes incluir estas secciones si quieres mostrar tu actividad:
-
 ![Estadísticas de GitHub de [Tu Nombre]](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical)
 ![Lenguajes más usados de [Tu Nombre]](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=radical)
 
@@ -50,9 +48,8 @@ Puedes incluir estas secciones si quieres mostrar tu actividad:
 
 Siempre estoy abierto a colaborar en recursos educativos, discutir pedagogía en tecnología o simplemente charlar sobre código.
 
-* [Tu Correo Electrónico](mailto:tu.email@ejemplo.com) (Opcional)
-* [Tu LinkedIn Profile](https://linkedin.com/in/tuperfil) (Opcional)
-* [Tu Portafolio Docente/Web](https://tuweb.com) (Opcional)
+* [Tu Correo Electrónico](mailto:amilcar.samael.moraga@clases.edu.sv) 
+
 
 ---
 
