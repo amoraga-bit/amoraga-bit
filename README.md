@@ -2,7 +2,7 @@
 
 ## Docente de Desarrollo de Software | Educación Media
 
-![Banner de mi aula de desarrollo de software](https://i.imgur.com/vH9x5z1.png)
+![Banner de mi aula de desarrollo de software](Gemini_Generated_Image_m62diqm62diqm62d.png)
 *(Imagen generada conceptualmente de mi entorno de enseñanza)*
 
 ### 👨‍🏫 Sobre mí
