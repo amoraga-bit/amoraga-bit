@@ -45,14 +45,14 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
-# 📘 Bitácora de Aprendizaje - Bootcamp FD
-
+### 📂 Proyectos Destacados
 Bienvenido a mi repositorio de prácticas y documentación. Aquí registro mi progreso y dominio de herramientas de IA y Automatización.
+#### [🚀 Repositorio-FD](https://github.com/amoraga-bit/repositorio-FD)
+* **Objetivo:** Dominio del flujo de trabajo con **Git** y **GitHub** (creación de repositorios, gestión de commits y estructura de archivos).
+* **Contenido:** Documentación técnica inicial, configuración de entornos con **Antigravity** y pruebas de estructura en Markdown.
+* **Stack:** `Antigravity` | `Git` | `GitHub`
+* [![Repo-FD](https://img.shields.io/badge/Ir_al_Repositorio-FD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amoraga-bit/repositorio-FD)
 
-## 🗂️ Contenido del Repositorio
-* **[Tecnologías](tech.md):** Listado detallado de mi stack técnico actual.
-* **[Introducción](intro.md):** Mi perfil y objetivos en este proceso de formación.
-* **[Tareas y Ejercicios](tarea-bootcamp.md):** Documentación de retos superados.
 ---
 ## 🛠️ Herramientas en Uso
 
