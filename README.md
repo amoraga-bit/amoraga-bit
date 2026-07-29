@@ -48,27 +48,19 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 
 ---
 ### 📂 Proyectos Destacados
+
 Bienvenido a mi repositorio de prácticas y documentación. Aquí registro mi progreso y dominio de herramientas de IA y Automatización.
+
 #### [🚀 Repositorio-FD](https://github.com/amoraga-bit/repositorio-FD)
+
 * **Objetivo:** Dominio del flujo de trabajo con **Git** y **GitHub** (creación de repositorios, gestión de commits y estructura de archivos).
 * **Contenido:** Documentación técnica inicial, configuración de entornos con **Antigravity** y pruebas de estructura en Markdown.
 * **Stack:** `Antigravity` | `Git` | `GitHub`
-* [![Repo-FD](https://img.shields.io/badge/Ir_al_Repositorio-FD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amoraga-bit/repositorio-FD)
+
+[![Repo-FD](https://img.shields.io/badge/Ir_al_Repositorio-FD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amoraga-bit/repositorio-FD)
 
 ---
-### 🐳 Despliegue con Docker y Google Cloud Shell
-
-Comandos clave para construir y desplegar contenedores dentro del entorno de **Google Cloud**:
-
-#### 1. Despliegue automático a Google Cloud Run
-```bash
-gcloud run deploy mi-app \
-  --source . \
-  --region us-central1 \
-  --allow-unauthenticated
-
----
-## 🛠️ Herramientas en Uso
+### 🛠️ Herramientas en Uso
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -86,7 +78,7 @@ gcloud run deploy mi-app \
 
 ### 🤝 Conectemos
 
-Siempre estoy abierto a colaborar en recursos educativos, discutir pedagogía en tecnología o simplemente charlar sobre código.
+Siempre estoy dispuesto a colaborar en recursos educativos, discutir pedagogía en tecnología o simplemente charlar sobre código.
 
 * [amilcar.samael.moraga@clases.edu.sv](mailto:amilcar.samael.moraga@clases.edu.sv) 
 
