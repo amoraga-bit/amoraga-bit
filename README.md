@@ -43,6 +43,8 @@ Utilizo **GitHub Classroom** como la columna vertebral de mis cursos para simula
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-Apps%20Script-4285F4?style=for-the-badge&logo=google-workspace)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 ### 📂 Proyectos Destacados
@@ -52,6 +54,18 @@ Bienvenido a mi repositorio de prácticas y documentación. Aquí registro mi pr
 * **Contenido:** Documentación técnica inicial, configuración de entornos con **Antigravity** y pruebas de estructura en Markdown.
 * **Stack:** `Antigravity` | `Git` | `GitHub`
 * [![Repo-FD](https://img.shields.io/badge/Ir_al_Repositorio-FD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amoraga-bit/repositorio-FD)
+
+---
+### 🐳 Despliegue con Docker y Google Cloud Shell
+
+Comandos clave para construir y desplegar contenedores dentro del entorno de **Google Cloud**:
+
+#### 1. Despliegue automático a Google Cloud Run
+```bash
+gcloud run deploy mi-app \
+  --source . \
+  --region us-central1 \
+  --allow-unauthenticated
 
 ---
 ## 🛠️ Herramientas en Uso
